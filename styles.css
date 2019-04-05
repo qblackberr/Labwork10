@@ -5,3 +5,14 @@ body {
     width: 25%;
     float: left;
     background-color: rgb(98, 209, 126);
+}
+.second {
+    width: 75%;
+    float: right;
+    background-color: rgb(255, 245, 104);
+}
+.third {
+    width: 85%;
+    float: left;
+    background-color: rgb(196, 72, 72);
+}
